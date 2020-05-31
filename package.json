@@ -1,0 +1,22 @@
+{
+  "name": "fed-e-task-01-02",
+  "version": "1.0.0",
+  "description": "# 1. 描述引用计数的原理和优缺点",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Super-Pig/fed-e-task-01-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Super-Pig/fed-e-task-01-02/issues"
+  },
+  "homepage": "https://github.com/Super-Pig/fed-e-task-01-02#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
