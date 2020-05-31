@@ -15,4 +15,9 @@ question1 ················· 代码题1
 |   |-- practice4 ········· 练习题4
 |   |    |-- README.MD ···· 题目
 |   |    |-- index.js ····· 答案
+question1 ················· 代码题2
+|-- support.js
+|   |-- practice1 ········· 练习题1
+|   |    |-- README.MD ···· 题目
+|   |    |-- index.js ····· 答案
 ```
